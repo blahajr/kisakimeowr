@@ -1,6 +1,6 @@
      
-- Name **Kisaki**
-- learning **javascript/python / cyber sec**
+- Name **Kisaki/Ryan**
+- learning **javascript/python/fullstack :3 / cyber sec**
 - OS **Windows 10/linux vm**
 
 **Contact me**
